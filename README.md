@@ -47,6 +47,5 @@ Remember to replace `<your-api-key>` with your actual OpenAI API key.
 2. [A Simple Guide to The (New) ChatGPT API with Python](https://medium.com/geekculture/a-simple-guide-to-chatgpt-api-with-python-c147985ae28)
 3. [Introducing ChatGPT - OpenAI](https://openai.com/blog/chatgpt)
 4. [ChatGPT plugins - OpenAI](https://openai.com/blog/chatgpt-plugins)
-```
 
 Please note that you need to replace `<your-api-key>` in the code snippet with your actual OpenAI API key before running the code.
